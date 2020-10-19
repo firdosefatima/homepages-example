@@ -11,7 +11,7 @@ body{
 /* Title Hero Image */
 
 .image{
-  height: 90vh;
+  height: 90%;
   background-image: url('https://images.unsplash.com/photo-1573668200361-62e141908294?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80');
   background-color: (0,0,0,0.2);
   filter:saturate(4);
@@ -19,12 +19,12 @@ body{
 }
 
 .title-btn {
-	border:2px solid white;
-	cursor:pointer;
-  background-color: rgb(0,0,0,0.1); /* Fallback color */
-  font-family:Arial;
-	font-size:30px;
-	padding:6px 24px;
+ border:2px solid white;
+ cursor:pointer;
+ background-color: rgb(0,0,0,0.1); /* Fallback color */
+ font-family:Arial;
+  font-size:30px;
+  padding:6px 24px;
   color: white;
   margin: 1%;
   font-family: 'Kufam', cursive;
@@ -353,7 +353,7 @@ li{
 #address{
   background-color: #1d1919;
   color: white;
-  height: 40vh;
+  height: 40%;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   line-height: 2;
@@ -527,7 +527,7 @@ li{
     height: 400px;
   }
   .menu{
-    height: 100vh;
+    height: 100%;
   }
   .order-btn{
     font-size: 15px;
@@ -551,7 +551,7 @@ li{
     font-size: 2rem;
   }
   #address{
-    height: 80vh;
+    height: 80%;
   }
 }
 @-ms-viewport{
