@@ -11,7 +11,7 @@ body{
 /* Title Hero Image */
 
 .image{
-  height: 90%;
+  height: 90vh;
   background-image: url('https://images.unsplash.com/photo-1573668200361-62e141908294?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80');
   background-color: (0,0,0,0.2);
   filter:saturate(4);
@@ -553,7 +553,4 @@ li{
   #address{
     height: 80%;
   }
-}
-@-ms-viewport{
-  width: device-width;
 }
